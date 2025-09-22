@@ -1,0 +1,12 @@
+{
+  "name": "school-club-platform",
+  "version": "1.0.0",
+  "description": "School Club & Organization Management Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
